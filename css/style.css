@@ -532,7 +532,7 @@ a:focus {
 
 .about .progress .progress-bar {
     width: 0px;
-    background: #EF233C;
+    background: #cd23ef;
     border-radius: 10px;
     transition: 2s;
 }
