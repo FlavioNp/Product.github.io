@@ -184,7 +184,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #17ad37;
+        color: #ffffff;
     }
     
     .navbar.nav-sticky .navbar-brand {
@@ -201,12 +201,13 @@ a:focus {
     
     .navbar-light.nav-sticky .navbar-nav .nav-link,
     .navbar-light.nav-sticky .navbar-nav .nav-link:focus {
-        color: #414141;
+        color: #17ad37;
     }
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #344767;
+        color: #344767
+        ;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
