@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 200px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(49, 4, 70, 0.95), rgba(236, 6, 186, 0.95)), url(../img/hero-bg.jpg);
+    background: linear-gradient(rgb(70 4 53 / 9%), rgb(63 6 236 / 95%)), url(../img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
