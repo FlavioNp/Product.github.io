@@ -44,7 +44,7 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #ffffff;
-    background: #EF233C;
+    background: #681922;
     border: 2px solid transparent;
     border-radius: 0;
     box-shadow: inset 0 0 0 50px #EF233C;
@@ -315,7 +315,7 @@ a:focus {
 
 .hero .hero-btn .btn {
     margin-top: 35px;
-    color: #EF233C;
+    color: #344767;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
